@@ -32,13 +32,13 @@
 
 ## 3. 좋은 예시
 
-
+```
 feat: 회원가입 기능 추가
 fix: 로그인 시 비밀번호 검증 오류 수정
 docs: 설치 가이드 업데이트
 style: 코드 줄바꿈 수정
 chore: 라이브러리 버전 업데이트
-
+```
 
 ---
 
@@ -64,7 +64,6 @@ git commit -am "fix: hello.txt 문구 오류 수정"
 # 3. 문서 수정
 git add README.md
 git commit -m "docs: README 설치 방법 추가"
-
 
 ---
 
