@@ -63,8 +63,7 @@ git commit -am "fix: hello.txt 문구 오류 수정"
 # 3. 문서 수정
 git add README.md
 git commit -m "docs: README 설치 방법 추가"
-
----
+```
 
 👉 이 파일을 저장소에 추가하려면 아래 명령어를 쓰면 됩니다:
 
@@ -73,3 +72,4 @@ echo "위 내용 복붙" > COMMIT_RULES.md
 git add COMMIT_RULES.md
 git commit -m "docs: 커밋 메시지 규칙 문서 추가"
 git push origin main
+```
